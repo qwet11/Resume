@@ -27,7 +27,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 ![Python](https://progress-bar.dev/60/?width=400)  
 > I am fairly comfortable with Python. I built many mini-programs (such as a Bank Application, email formatter, and Tic-Tac-Toe game); however, they were mainly to test certain concepts and haven't been uploaded to github as of yet.  
 
-### C#  
+### C\#  
 ![C#](https://progress-bar.dev/60/?width=400)   
 > I am fairly competent with C#, but I need more practice with the language so that I am as fluent in C# as I am in Java.  
 
