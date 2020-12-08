@@ -21,31 +21,31 @@ LinkedIn: www.linkedin.com/in/wckmoss
 
 ### Java  
 ![Java](https://progress-bar.dev/80/?width=400)  
-> I am very comfortable programming with Java. This is evidenced by the several projects I have completed, ranging from AP Computer Science assignments to creating a Bank Application (BankAccount, Bank, and Client classes) to creating a [Tennis Database].   
+> I am experienced at programming with Java. This is evidenced by the several projects I have completed, ranging from AP Computer Science assignments, to the construction of a Banking Application interface (including BankAccount, Bank, and Client classes), to the creation of a [Tennis Database]. In addition, I have been SoloLearn certified for Java.
 
 ### Python  
 ![Python](https://progress-bar.dev/70/?width=400)  
-> I am fairly comfortable programming with Python. I built many mini-programs (such as a Bank Application, email formatter, and Tic-Tac-Toe game); however, they were mainly to test certain concepts and haven't been uploaded to github as of yet.  
+> I am adept at programming with Python. During my free time, I enjoy building programs and mini-games, such as an email formatter, XYZ, and Tic-Tac-Toe game).  In addition, I have been SoloLearn certified for Python.
 
 ### C\#  
 ![C#](https://progress-bar.dev/70/?width=400)   
-> I am fairly competent programming with C#, but I need more practice with the language so that I am as fluent in C# as I am in Java.  
+> I am competent programming with C#, although most of my experience has been centered around Java and Python. While I am still working on building my C# portfolio, I have taken the initiative to get SoloLearn certified in C# as a starting point.   
 
 ### HTML  
 ![HTML](https://progress-bar.dev/70/?width=400)  
-> This is the first language I learnt to code in. I am decently competent programming with HTML    
+> HTML has a soft spot in my heart, as it is the first language that I learned to code in. I am competent programming with HTML    
 
 ### CSS  
 ![CSS](https://progress-bar.dev/50/?width=400)  
-> I am not yet very comfortable with CSS, but I can program in the language  
+> I know the basics of CSS programming, and am working to strengthen my skills in this language.   
 
 ### Javascript  
 ![Javascript](https://progress-bar.dev/50/?width=400)  
-> I am not yet very comfortable with JavaScript, but I can program in the language   
+> Similar to CSS, I know the basics of Javascript programming, and am working to strengthen my skills in this language.    
 
 ### PHP  
 ![PHP](https://progress-bar.dev/20/?width=400)  
-> I have basic knowledge of PHP    
+> I know the basics of PHP programming, and am working to strengthen my skills in this language.    
 
 [Tennis Database]: (https://github.com/qwet11/Tennis-Database)  
 
@@ -55,13 +55,13 @@ LinkedIn: www.linkedin.com/in/wckmoss
 * Bishop Michael Eldon School's Deputy Head Boy  
 *2019 - 2020*  
 
-* Top Student Performance in Kettering University's AIM Program  
+* Top Student Performance in Kettering University's Academically Interested Minds (AIM) Program  
 *2019*  
 
-* Ministry of Education Outstanding BGCSE Results  
+* Ministry of Education Outstanding Bahamas General Certificate of Secondary Education (BGCSE) Results  
 *2019*  
 
-* TEDxYouth@GrandBahama Speaker  
+* TEDxYouth@GrandBahama Speaker - Selected based on an independent application process
 *2019*   
 
 * SECME Mousetrap International Team  
@@ -76,5 +76,23 @@ LinkedIn: www.linkedin.com/in/wckmoss
 * Kumbaya Chess Tournament in Skokie U1600 Division Champion  
 *2018*  
 
-* National Arts Festival Music National Winner in Solo Piano  
+* The Bahamas National Arts Festival Music National Winner in Solo Piano  
 *2012, 2014 - 2016, 2018*  
+
+---------------------------
+# News & Articles
+
+* "Fight! Exploring potential impacts of video games | William Moss | TEDxYouth@GrandBahama"
+*https://www.youtube.com/watch?v=EqEgjDVW_54&list=UL8TZM0-wMSMk&index=104423*
+*https://www.ted.com/tedx/events/30411*
+
+* "Moss wins 247k Kettering University scholarship"
+*http://thefreeportnews.com/news/moss-wins-247k-kettering-university-scholarship/*
+
+* "Bahamas Primary School Student of the Year Foundation Salutes William C.K Moss"
+*https://www.facebook.com/permalink.php?id=6470939485&story_fbid=10157485547179486*
+
+
+
+
+
