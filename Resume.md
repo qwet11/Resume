@@ -21,7 +21,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 
 ### Java  
 ![Java](https://progress-bar.dev/80/?width=400)  
-> I am very comfortable programming with Java. This is evidenced by the several projects I have completed, ranging from simple AP Computer Science questions to creating a simple Bank Applications to creating a [Tennis Database].   
+> I am very comfortable programming with Java. This is evidenced by the several projects I have completed, ranging from AP Computer Science questions to creating a simple Bank Applications to creating a [Tennis Database].   
 
 ### Python  
 ![Python](https://progress-bar.dev/70/?width=400)  
