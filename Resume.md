@@ -20,27 +20,27 @@ LinkedIn: www.linkedin.com/in/wckmoss
 # Technical Experience  
 
 ### Java  
-![Java](https://progress-bar.dev/75/?width=400)  
-> I am very comfortable with it. I have completed several projects ranging from simple AP Computer Science questions to creating a simple Bank Applications to creating a [Tennis Database].   
+![Java](https://progress-bar.dev/80/?width=400)  
+> I am very comfortable with Java. I have completed several projects ranging from simple AP Computer Science questions to creating a simple Bank Applications to creating a [Tennis Database].   
 
 ### Python  
-![Python](https://progress-bar.dev/60/?width=400)  
+![Python](https://progress-bar.dev/70/?width=400)  
 > I am fairly comfortable with Python. I built many mini-programs (such as a Bank Application, email formatter, and Tic-Tac-Toe game); however, they were mainly to test certain concepts and haven't been uploaded to github as of yet.  
 
 ### C\#  
-![C#](https://progress-bar.dev/60/?width=400)   
+![C#](https://progress-bar.dev/70/?width=400)   
 > I am fairly competent with C#, but I need more practice with the language so that I am as fluent in C# as I am in Java.  
 
 ### HTML  
-![HTML](https://progress-bar.dev/60/?width=400)  
+![HTML](https://progress-bar.dev/70/?width=400)  
 > This is the first language I learnt to code in. I am decently competent with HTML    
 
 ### CSS  
-![CSS](https://progress-bar.dev/30/?width=400)  
+![CSS](https://progress-bar.dev/50/?width=400)  
 > I am not yet very comfortable with CSS, but I can program in the language  
 
 ### Javascript  
-![Javascript](https://progress-bar.dev/30/?width=400)  
+![Javascript](https://progress-bar.dev/50/?width=400)  
 > I am not yet very comfortable with JavaScript, but I can program in the language   
 
 ### PHP  
