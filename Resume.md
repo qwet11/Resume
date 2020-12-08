@@ -32,7 +32,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 > I am competent programming with C#, although most of my experience has been centered around Java and Python. While I am still working on building my C# portfolio, I have taken the initiative to get SoloLearn certified in C# as a starting point.   
 
 ### HTML  
-![HTML](https://progress-bar.dev/60/?width=400)  
+![HTML](https://progress-bar.dev/70/?width=400)  
 > HTML has a soft spot in my heart, as it is the first language that I learned to code in. I am competent programming with HTML    
 
 ### CSS  
