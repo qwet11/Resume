@@ -83,7 +83,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 # News & Articles
 
 * "Fight! Exploring potential impacts of video games | William Moss | TEDxYouth@GrandBahama"   
-[Youtube Link](https://www.youtube.com/watch?v=EqEgjDVW_54&list=UL8TZM0-wMSMk&index=104423)  [Ted Article](https://www.ted.com/tedx/events/30411)   
+[Youtube Link](https://www.youtube.com/watch?v=EqEgjDVW_54&list=UL8TZM0-wMSMk&index=104423) | [Ted Article](https://www.ted.com/tedx/events/30411)   
 
 * "Moss wins 247k Kettering University scholarship"   
 [Newspaper Article](http://thefreeportnews.com/news/moss-wins-247k-kettering-university-scholarship/)  
