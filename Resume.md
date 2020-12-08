@@ -82,15 +82,15 @@ LinkedIn: www.linkedin.com/in/wckmoss
 ---------------------------
 # News & Articles
 
-* "Fight! Exploring potential impacts of video games | William Moss | TEDxYouth@GrandBahama"
-*https://www.youtube.com/watch?v=EqEgjDVW_54&list=UL8TZM0-wMSMk&index=104423*
-*https://www.ted.com/tedx/events/30411*
+* "Fight! Exploring potential impacts of video games | William Moss | TEDxYouth@GrandBahama"   
+*https://www.youtube.com/watch?v=EqEgjDVW_54&list=UL8TZM0-wMSMk&index=104423*   
+*https://www.ted.com/tedx/events/30411*   
 
-* "Moss wins 247k Kettering University scholarship"
-*http://thefreeportnews.com/news/moss-wins-247k-kettering-university-scholarship/*
+* "Moss wins 247k Kettering University scholarship"   
+*http://thefreeportnews.com/news/moss-wins-247k-kettering-university-scholarship/*   
 
-* "Bahamas Primary School Student of the Year Foundation Salutes William C.K Moss"
-*https://www.facebook.com/permalink.php?id=6470939485&story_fbid=10157485547179486*
+* "Bahamas Primary School Student of the Year Foundation Salutes William C.K Moss"   
+*https://www.facebook.com/permalink.php?id=6470939485&story_fbid=10157485547179486*   
 
 
 
