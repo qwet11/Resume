@@ -21,7 +21,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 
 ### Java  
 ![Java](https://progress-bar.dev/80/?width=400)  
-> I am experienced at programming with Java. This is evidenced by the several projects I have completed, ranging from AP Computer Science assignments, to the construction of a Banking Application interface (including BankAccount, Bank, and Client classes), to the creation of a [Tennis Database](https://github.com/qwet11/Tennis-Database). In addition, I have been SoloLearn certified for Java.
+> I am experienced at programming with Java. This is evidenced by the several projects I have completed, ranging from AP Computer Science assignments, to the construction of a Banking Application (including BankAccount, Bank, and Client classes), to the creation of a [Tennis Database](https://github.com/qwet11/Tennis-Database). In addition, I have been SoloLearn certified for Java.
 
 ### Python  
 ![Python](https://progress-bar.dev/70/?width=400)  
@@ -33,19 +33,19 @@ LinkedIn: www.linkedin.com/in/wckmoss
 
 ### HTML  
 ![HTML](https://progress-bar.dev/70/?width=400)  
-> HTML has a soft spot in my heart, as it is the first language that I learned to code in. I am competent programming with HTML    
+> HTML has a soft spot in my heart, as it is the first language that I learned to code in. I am competent programming with HTML, and have been SoloLearn certified.  
 
 ### CSS  
 ![CSS](https://progress-bar.dev/50/?width=400)  
-> I know the basics of CSS programming, and am working to strengthen my skills in this language.   
+> I know the basics of CSS programming, and am working to strengthen my skills in this language. I have been SoloLearn certified.   
 
 ### Javascript  
 ![Javascript](https://progress-bar.dev/50/?width=400)  
-> Similar to CSS, I know the basics of Javascript programming, and am working to strengthen my skills in this language.    
+> Similar to CSS, I know the basics of Javascript programming, and am working to strengthen my skills in this language. I have been SoloLearn certified.    
 
 ### PHP  
 ![PHP](https://progress-bar.dev/20/?width=400)  
-> I know the basics of PHP programming, and am working to strengthen my skills in this language.    
+> I know the basics of PHP programming, and am working to strengthen my skills in this language. I have been SoloLearn certified.  
 
 
 
