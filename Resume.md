@@ -21,7 +21,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 
 ### Java  
 ![Java](https://progress-bar.dev/80/?width=400)  
-> I am experienced at programming with Java. This is evidenced by the several projects I have completed, ranging from AP Computer Science assignments, to the construction of a Banking Application interface (including BankAccount, Bank, and Client classes), to the creation of a [Tennis Database]. In addition, I have been SoloLearn certified for Java.
+> I am experienced at programming with Java. This is evidenced by the several projects I have completed, ranging from AP Computer Science assignments, to the construction of a Banking Application interface (including BankAccount, Bank, and Client classes), to the creation of a [Tennis Database](https://github.com/qwet11/Tennis-Database). In addition, I have been SoloLearn certified for Java.
 
 ### Python  
 ![Python](https://progress-bar.dev/70/?width=400)  
@@ -47,7 +47,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 ![PHP](https://progress-bar.dev/20/?width=400)  
 > I know the basics of PHP programming, and am working to strengthen my skills in this language.    
 
-[Tennis Database]: (https://github.com/qwet11/Tennis-Database)  
+
 
 ---------------------------
 # Positions and Awards 
@@ -83,17 +83,11 @@ LinkedIn: www.linkedin.com/in/wckmoss
 # News & Articles
 
 * "Fight! Exploring potential impacts of video games | William Moss | TEDxYouth@GrandBahama"   
-[Youtube Link]   
-[TED Article]   
-
-* "Moss wins 247k Kettering University scholarship"   
-[Newspaper Article]  
- 
-* "Bahamas Primary School Student of the Year Foundation Salutes William C.K Moss"   
-[Facebook Article]   
-
-
 [Youtube Link](https://www.youtube.com/watch?v=EqEgjDVW_54&list=UL8TZM0-wMSMk&index=104423)  
 [Ted Article](https://www.ted.com/tedx/events/30411)   
-[Newspaper Article](http://thefreeportnews.com/news/moss-wins-247k-kettering-university-scholarship/)
-[Facebook Article](https://www.facebook.com/permalink.php?id=6470939485&story_fbid=10157485547179486)
+
+* "Moss wins 247k Kettering University scholarship"   
+[Newspaper Article](http://thefreeportnews.com/news/moss-wins-247k-kettering-university-scholarship/)  
+ 
+* "Bahamas Primary School Student of the Year Foundation Salutes William C.K Moss"   
+[Facebook Article](https://www.facebook.com/permalink.php?id=6470939485&story_fbid=10157485547179486)  
