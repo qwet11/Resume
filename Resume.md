@@ -9,7 +9,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 # Education
 
 2020-2024 (expected)  
-**BSc, Computer Science**: Kettering University  
+**B.Sc., Computer Science**: Kettering University  
 *Minor:* Statistics  
 
 2014-2020  
