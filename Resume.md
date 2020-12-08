@@ -6,7 +6,7 @@ Email: wckmoss@gmail.com
 LinkedIn: www.linkedin.com/in/wckmoss  
 
 ---------------------------
-# Education
+## Education
 
 2020-2024 (expected)  
 **B.Sc., Computer Science**: Kettering University  
@@ -17,7 +17,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 *Graduating GPA:* 4.00   
 
 ---------------------------
-# Technical Experience  
+## Technical Experience  
 
 ### Java  
 ![Java](https://progress-bar.dev/80/?width=400)  
@@ -50,7 +50,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 [Tennis Database]: (https://github.com/qwet11/Tennis-Database)  
 
 ---------------------------
-# Positions and Awards 
+## Positions and Awards 
 
 * Bishop Michael Eldon School's Deputy Head Boy  
 *2019 - 2020*  
@@ -80,7 +80,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 *2012, 2014 - 2016, 2018*  
 
 ---------------------------
-# News & Articles
+## News & Articles
 
 * "Fight! Exploring potential impacts of video games | William Moss | TEDxYouth@GrandBahama"   
 *https://www.youtube.com/watch?v=EqEgjDVW_54&list=UL8TZM0-wMSMk&index=104423*   
