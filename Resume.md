@@ -21,19 +21,19 @@ LinkedIn: www.linkedin.com/in/wckmoss
 
 ### Java  
 ![Java](https://progress-bar.dev/80/?width=400)  
-> I am very comfortable with Java. I have completed several projects ranging from simple AP Computer Science questions to creating a simple Bank Applications to creating a [Tennis Database].   
+> I am very comfortable programming with Java. I have completed several projects ranging from simple AP Computer Science questions to creating a simple Bank Applications to creating a [Tennis Database].   
 
 ### Python  
 ![Python](https://progress-bar.dev/70/?width=400)  
-> I am fairly comfortable with Python. I built many mini-programs (such as a Bank Application, email formatter, and Tic-Tac-Toe game); however, they were mainly to test certain concepts and haven't been uploaded to github as of yet.  
+> I am fairly comfortable programming with Python. I built many mini-programs (such as a Bank Application, email formatter, and Tic-Tac-Toe game); however, they were mainly to test certain concepts and haven't been uploaded to github as of yet.  
 
 ### C\#  
 ![C#](https://progress-bar.dev/70/?width=400)   
-> I am fairly competent with C#, but I need more practice with the language so that I am as fluent in C# as I am in Java.  
+> I am fairly competent programming with C#, but I need more practice with the language so that I am as fluent in C# as I am in Java.  
 
 ### HTML  
 ![HTML](https://progress-bar.dev/70/?width=400)  
-> This is the first language I learnt to code in. I am decently competent with HTML    
+> This is the first language I learnt to code in. I am decently competent programming with HTML    
 
 ### CSS  
 ![CSS](https://progress-bar.dev/50/?width=400)  
