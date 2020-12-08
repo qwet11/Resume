@@ -1,4 +1,4 @@
-# WILLIAM C. K. MOSS 
+# WILLIAM C.K. MOSS 
 
 Address: 1700 University Ave, Flint, MI 48504    
 Telephone: (810) 624-9339  
