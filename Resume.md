@@ -8,7 +8,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 ---------------------------
 # Education
 
-### Kettering University, Flint, MI:  
+### Kettering University, Flint, Michigan:  
 **Bachelors of Science., Computer Science**  
 *Minor:* Statistics  
 2020-2024 (expected)  
@@ -17,9 +17,9 @@ LinkedIn: www.linkedin.com/in/wckmoss
 **Standing:** Good standing  
 **Available to co-op:** April - June  
 
+### Bishop Michael Eldon School, Grand Bahama, The Bahamas:
+*Graduating GPA:* 4.00  
 2014-2020  
-**High School**: Bishop Michael Eldon School   
-*Graduating GPA:* 4.00   
 
 ---------------------------
 ## Technical Experience  
