@@ -94,7 +94,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 [Facebook Article](https://www.facebook.com/permalink.php?id=6470939485&story_fbid=10157485547179486)  
 
 ---------------------------
-# Presentation 
+# Presentations
 
 * "Fight! Exploring potential impacts of video games | William Moss | TEDxYouth@GrandBahama"   
 [Youtube Link](https://www.youtube.com/watch?v=EqEgjDVW_54&list=UL8TZM0-wMSMk&index=104423) | [TED Article](https://www.ted.com/tedx/events/30411)  
