@@ -2,7 +2,7 @@
 
 Address: 1700 University Ave, Flint, MI 48504    
 Telephone: (810) 624-9339  
-Email: moss5387@kettering.edu
+Email: moss5387@kettering.edu  
 LinkedIn: www.linkedin.com/in/wckmoss  
 
 ---------------------------
