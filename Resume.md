@@ -8,9 +8,12 @@ LinkedIn: www.linkedin.com/in/wckmoss
 ---------------------------
 # Education
 
-2020-2024 (expected)  
-**B.Sc., Computer Science**: Kettering University  
+Kettering University, Flint, MI: 
+**Bachelors of Science., Computer Science**
 *Minor:* Statistics  
+**GPA:** 4.0
+**Standing:** Good standing
+2020-2024 (expected)
 
 2014-2020  
 **High School**: Bishop Michael Eldon School   
@@ -83,10 +86,10 @@ LinkedIn: www.linkedin.com/in/wckmoss
 # News & Articles
 
 * "Fight! Exploring potential impacts of video games | William Moss | TEDxYouth@GrandBahama"   
-[Youtube Link](https://www.youtube.com/watch?v=EqEgjDVW_54&list=UL8TZM0-wMSMk&index=104423) | [TED Article](https://www.ted.com/tedx/events/30411)   
+[Youtube Link](https://www.youtube.com/watch?v=EqEgjDVW_54&list=UL8TZM0-wMSMk&index=104423) | [Published TED Article](https://www.ted.com/tedx/events/30411)   
 
 * "Moss wins 247k Kettering University scholarship"   
-[Newspaper Article](http://thefreeportnews.com/news/moss-wins-247k-kettering-university-scholarship/)  
+[Published Newspaper Article](http://thefreeportnews.com/news/moss-wins-247k-kettering-university-scholarship/)  
  
 * "Bahamas Primary School Student of the Year Foundation Salutes William C.K Moss"   
 [Facebook Article](https://www.facebook.com/permalink.php?id=6470939485&story_fbid=10157485547179486)  
