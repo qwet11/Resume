@@ -2,7 +2,7 @@
 
 Address: 1700 University Ave, Flint, MI 48504    
 Telephone: (810) 624-9339  
-Email: wckmoss@gmail.com  
+Email: moss5387@kettering.edu
 LinkedIn: www.linkedin.com/in/wckmoss  
 
 ---------------------------
@@ -14,7 +14,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 2020-2024 (expected)  
 
 **GPA:** 4.0  
-**Standing:** Good standing  
+**Standing:** Sophomore 1  
 **Available to co-op:** April - June  
 
 ### Bishop Michael Eldon School, Grand Bahama, The Bahamas:
