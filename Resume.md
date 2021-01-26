@@ -8,7 +8,7 @@ LinkedIn: www.linkedin.com/in/wckmoss
 ---------------------------
 # Education
 
-Kettering University, Flint, MI:  
+### Kettering University, Flint, MI:  
 **Bachelors of Science., Computer Science**  
 *Minor:* Statistics  
 2020-2024 (expected)  
